@@ -25,7 +25,8 @@ def buffer_layer(input_gdb, input_layer, dist):
 
 def main():
     # Define your workspace and point it at the modelbuilder.gdb
-    arcpy.env.workspace = r"C:\Users\David Neufeld\Documents\ArcGIS\GIS305\Projects\ModelBuilder\ModelBuilder.gdb\\"
+    # Changed path
+    arcpy.env.workspace = r"E:\ARC_Projects\ModelBuilder\ModelBuilder.gdb\\"
     arcpy.env.overwriteOutput = True
 
     # Buffer cities
