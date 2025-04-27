@@ -1,0 +1,7 @@
+2025-04-27 10:47:30,650 - DEBUG - This is a DEBUG message.
+2025-04-27 10:47:30,650 - INFO - This is an INFO message.
+2025-04-27 10:47:30,650 - WARNING - This is a WARNING message.
+2025-04-27 10:47:30,650 - ERROR - This is an ERROR message.
+2025-04-27 10:48:24,370 - ERROR - This is an ERROR message.
+2025-04-27 10:49:30,556 - ERROR - This is an ERROR message.
+2025-04-27 10:51:05,650 - ERROR - This is an ERROR message.
